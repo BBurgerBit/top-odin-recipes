@@ -1,0 +1,13 @@
+/* styles.css */
+
+* {
+    background-color: rgb(185, 116, 116); font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: yellow; color: white; border-radius: 6px;
+}
+
+img {
+    width: 450px; height: auto; border-radius: 50px; border-width: 10px; border-style: solid;
+}
